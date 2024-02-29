@@ -4,5 +4,5 @@ Cricket statistics pipeline using Google Cloud services. From retrieving data vi
 
 # Architecture
 
-![Example Image]([(https://github.com/Omsai-2000/Criccbuz_API_Data_Load/blob/main/Architecture.png])
+![Example Image](https://github.com/Omsai-2000/Criccbuz_API_Data_Load/blob/main/Architecture.png)
 
