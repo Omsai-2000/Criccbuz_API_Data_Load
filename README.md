@@ -26,4 +26,4 @@ Finally, we’ll explore the potential of BigQuery as a data source for Looker S
 
 # DashBoard
 
-https://github.com/Omsai-2000/Criccbuz_API_Data_Load/blob/main/ICC_Rankings.png?raw=true
+![Dashboard](https://github.com/Omsai-2000/Criccbuz_API_Data_Load/blob/main/ICC_Rankings.png?raw=true)
